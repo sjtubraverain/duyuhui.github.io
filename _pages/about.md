@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Master's student at Shanghai Jiao Tong University (SJTU), specializing in Reinforcement Learning and End-to-End Streaming Media Optimization. Currently, I conduct my research with the  [MIN](https://min.sjtu.edu.cn/En/FacultyPublications/4#M.S.%20Students)group at SJTU.
+I am a second-year Master's student at Shanghai Jiao Tong University (SJTU), specializing in Reinforcement Learning and End-to-End Streaming Media Optimization. Currently, I conduct my research with the  [MIN](https://min.sjtu.edu.cn/) group at SJTU.
 
 A data-driven personal website
 ======
